@@ -1,9 +1,9 @@
 {
   "name": "Momentum",
   "short_name": "Momentum",
-  "description": "Daily habit and training tracker",
-  "start_url": "/Goal-Tracker/",
-  "scope": "/Goal-Tracker/",
+  "description": "Personal development tracker — habits, training, nutrition, skincare and goals",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#0a0a0a",
   "theme_color": "#0a0a0a",
